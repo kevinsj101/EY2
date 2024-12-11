@@ -1,0 +1,662 @@
+[
+  {
+    "Year": 2016,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 291.21
+  },
+  {
+    "Year": 2016,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 299.5
+  },
+  {
+    "Year": 2016,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 308.61
+  },
+  {
+    "Year": 2016,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 315.75
+  },
+  {
+    "Year": 2016,
+    "Month": "may",
+    "Market Price (INR per quintal)": 303.67
+  },
+  {
+    "Year": 2016,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 310
+  },
+  {
+    "Year": 2016,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 317
+  },
+  {
+    "Year": 2016,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 322.6
+  },
+  {
+    "Year": 2016,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 331.12
+  },
+  {
+    "Year": 2016,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 310
+  },
+  {
+    "Year": 2016,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 298.99
+  },
+  {
+    "Year": 2016,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 315.23
+  },
+  {
+    "Year": 2017,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 295.44
+  },
+  {
+    "Year": 2017,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 303.6
+  },
+  {
+    "Year": 2017,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 314.23
+  },
+  {
+    "Year": 2017,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 319.56
+  },
+  {
+    "Year": 2017,
+    "Month": "may",
+    "Market Price (INR per quintal)": 307.78
+  },
+  {
+    "Year": 2017,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 312.95
+  },
+  {
+    "Year": 2017,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 325.43
+  },
+  {
+    "Year": 2017,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 330.89
+  },
+  {
+    "Year": 2017,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 340.21
+  },
+  {
+    "Year": 2017,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 315.22
+  },
+  {
+    "Year": 2017,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 300.77
+  },
+  {
+    "Year": 2017,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 316.67
+  },
+  {
+    "Year": 2018,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 301.59
+  },
+  {
+    "Year": 2018,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 327
+  },
+  {
+    "Year": 2018,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 318.72
+  },
+  {
+    "Year": 2018,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 326.4
+  },
+  {
+    "Year": 2018,
+    "Month": "may",
+    "Market Price (INR per quintal)": 309.49
+  },
+  {
+    "Year": 2018,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 319.41
+  },
+  {
+    "Year": 2018,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 330.99
+  },
+  {
+    "Year": 2018,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 315.94
+  },
+  {
+    "Year": 2018,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 305.34
+  },
+  {
+    "Year": 2018,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 303.15
+  },
+  {
+    "Year": 2018,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 319.61
+  },
+  {
+    "Year": 2018,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 323.41
+  },
+  {
+    "Year": 2019,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 305.05
+  },
+  {
+    "Year": 2019,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 326.83
+  },
+  {
+    "Year": 2019,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 311.26
+  },
+  {
+    "Year": 2019,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 323.31
+  },
+  {
+    "Year": 2019,
+    "Month": "may",
+    "Market Price (INR per quintal)": 328.11
+  },
+  {
+    "Year": 2019,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 308.28
+  },
+  {
+    "Year": 2019,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 315.78
+  },
+  {
+    "Year": 2019,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 303.21
+  },
+  {
+    "Year": 2019,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 322.35
+  },
+  {
+    "Year": 2019,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 317.22
+  },
+  {
+    "Year": 2019,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 301.56
+  },
+  {
+    "Year": 2019,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 330.48
+  },
+  {
+    "Year": 2020,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 306.58
+  },
+  {
+    "Year": 2020,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 335.47
+  },
+  {
+    "Year": 2020,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 324.07
+  },
+  {
+    "Year": 2020,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 338.84
+  },
+  {
+    "Year": 2020,
+    "Month": "may",
+    "Market Price (INR per quintal)": 316.24
+  },
+  {
+    "Year": 2020,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 327.1
+  },
+  {
+    "Year": 2020,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 315.82
+  },
+  {
+    "Year": 2020,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 336.27
+  },
+  {
+    "Year": 2020,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 331.07
+  },
+  {
+    "Year": 2020,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 305.4
+  },
+  {
+    "Year": 2020,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 343.97
+  },
+  {
+    "Year": 2020,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 312.83
+  },
+  {
+    "Year": 2021,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 319.68
+  },
+  {
+    "Year": 2021,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 332.78
+  },
+  {
+    "Year": 2021,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 310.48
+  },
+  {
+    "Year": 2021,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 346.74
+  },
+  {
+    "Year": 2021,
+    "Month": "may",
+    "Market Price (INR per quintal)": 340.35
+  },
+  {
+    "Year": 2021,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 340.84
+  },
+  {
+    "Year": 2021,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 343.94
+  },
+  {
+    "Year": 2021,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 321.86
+  },
+  {
+    "Year": 2021,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 332.48
+  },
+  {
+    "Year": 2021,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 332.11
+  },
+  {
+    "Year": 2021,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 326.18
+  },
+  {
+    "Year": 2021,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 314.53
+  },
+  {
+    "Year": 2022,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 358.6
+  },
+  {
+    "Year": 2022,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 335.96
+  },
+  {
+    "Year": 2022,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 320.55
+  },
+  {
+    "Year": 2022,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 343.38
+  },
+  {
+    "Year": 2022,
+    "Month": "may",
+    "Market Price (INR per quintal)": 324.22
+  },
+  {
+    "Year": 2022,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 358.11
+  },
+  {
+    "Year": 2022,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 320.08
+  },
+  {
+    "Year": 2022,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 341.64
+  },
+  {
+    "Year": 2022,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 342.43
+  },
+  {
+    "Year": 2022,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 335.58
+  },
+  {
+    "Year": 2022,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 320.21
+  },
+  {
+    "Year": 2022,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 345.3
+  },
+  {
+    "Year": 2023,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 340.78
+  },
+  {
+    "Year": 2023,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 365.52
+  },
+  {
+    "Year": 2023,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 356.17
+  },
+  {
+    "Year": 2023,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 338.47
+  },
+  {
+    "Year": 2023,
+    "Month": "may",
+    "Market Price (INR per quintal)": 356.71
+  },
+  {
+    "Year": 2023,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 365.24
+  },
+  {
+    "Year": 2023,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 345.42
+  },
+  {
+    "Year": 2023,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 335.88
+  },
+  {
+    "Year": 2023,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 356.69
+  },
+  {
+    "Year": 2023,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 352.71
+  },
+  {
+    "Year": 2023,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 363.8
+  },
+  {
+    "Year": 2023,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 348.72
+  },
+  {
+    "Year": 2024,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 359.25
+  },
+  {
+    "Year": 2024,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 347.98
+  },
+  {
+    "Year": 2024,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 338.12
+  },
+  {
+    "Year": 2024,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 345.5
+  },
+  {
+    "Year": 2024,
+    "Month": "may",
+    "Market Price (INR per quintal)": 340.05
+  },
+  {
+    "Year": 2024,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 350.27
+  },
+  {
+    "Year": 2024,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 330.87
+  },
+  {
+    "Year": 2024,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 342
+  },
+  {
+    "Year": 2024,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 334.98
+  },
+  {
+    "Year": 2024,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 328.41
+  },
+  {
+    "Year": 2024,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 320.18
+  },
+  {
+    "Year": 2024,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 321.5
+  },
+  {
+    "Year": 2025,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 330.697998
+  },
+  {
+    "Year": 2025,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 346.2325134
+  },
+  {
+    "Year": 2025,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 344.9402771
+  },
+  {
+    "Year": 2025,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 345.9243164
+  },
+  {
+    "Year": 2025,
+    "Month": "may",
+    "Market Price (INR per quintal)": 332.6444092
+  },
+  {
+    "Year": 2025,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 354.4585571
+  },
+  {
+    "Year": 2025,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 325.1873169
+  },
+  {
+    "Year": 2025,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 336.0688171
+  },
+  {
+    "Year": 2025,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 335.1363525
+  },
+  {
+    "Year": 2025,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 334.0801697
+  },
+  {
+    "Year": 2025,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 334.1557007
+  },
+  {
+    "Year": 2025,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 355.7842407
+  },
+  {
+    "Year": 2026,
+    "Month": "jan",
+    "Market Price (INR per quintal)": 356.8302307
+  },
+  {
+    "Year": 2026,
+    "Month": "feb",
+    "Market Price (INR per quintal)": 359.6325378
+  },
+  {
+    "Year": 2026,
+    "Month": "mar",
+    "Market Price (INR per quintal)": 351.441803
+  },
+  {
+    "Year": 2026,
+    "Month": "apr",
+    "Market Price (INR per quintal)": 341.3822021
+  },
+  {
+    "Year": 2026,
+    "Month": "may",
+    "Market Price (INR per quintal)": 346.6460266
+  },
+  {
+    "Year": 2026,
+    "Month": "jun",
+    "Market Price (INR per quintal)": 355.8900757
+  },
+  {
+    "Year": 2026,
+    "Month": "jul",
+    "Market Price (INR per quintal)": 331.1732178
+  },
+  {
+    "Year": 2026,
+    "Month": "aug",
+    "Market Price (INR per quintal)": 334.3325806
+  },
+  {
+    "Year": 2026,
+    "Month": "sep",
+    "Market Price (INR per quintal)": 344.1852112
+  },
+  {
+    "Year": 2026,
+    "Month": "oct",
+    "Market Price (INR per quintal)": 335.7276917
+  },
+  {
+    "Year": 2026,
+    "Month": "nov",
+    "Market Price (INR per quintal)": 354.0509033
+  },
+  {
+    "Year": 2026,
+    "Month": "dec",
+    "Market Price (INR per quintal)": 339.3100891
+  }
+]

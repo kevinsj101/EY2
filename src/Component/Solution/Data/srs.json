@@ -1,0 +1,58 @@
+[
+  {
+    "Supplier": "A",
+    "Vendor ID": "V01",
+    "Location": "Uttar Pradesh",
+    "SRS": 220,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "A",
+    "Vendor ID": "V02",
+    "Location": "Maharastra",
+    "SRS": 35,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "A",
+    "Vendor ID": "V03",
+    "Location": "Madhya Pradesh",
+    "SRS": 85,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "B",
+    "Vendor ID": "V04",
+    "Location": "Tamil nadu",
+    "SRS": 25,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "B",
+    "Vendor ID": "V05",
+    "Location": "Uttarpradesh",
+    "SRS": 60,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "B",
+    "Vendor ID": "V06",
+    "Location": "Andhrapradesh",
+    "SRS": 45,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "C",
+    "Vendor ID": "V07",
+    "Location": "Karnataka",
+    "SRS": 25,
+    "Last update": "26 Nov, 2:30pm"
+  },
+  {
+    "Supplier": "C",
+    "Vendor ID": "V08",
+    "Location": "Maharastra",
+    "SRS": 75,
+    "Last update": "26 Nov, 2:30pm"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Month": "28-Jan",
+    "P1Demand(quintal)": 129,
+    "P2Demand(quintal)": 100,
+    "P3Demand(quintal)": 116
+  },
+  {
+    "Month": "28-Feb",
+    "P1Demand(quintal)": 100,
+    "P2Demand(quintal)": 95,
+    "P3Demand(quintal)": 120
+  },
+  {
+    "Month": "28-Mar",
+    "P1Demand(quintal)": 49,
+    "P2Demand(quintal)": 49,
+    "P3Demand(quintal)": 45
+  },
+  {
+    "Month": "28-Apr",
+    "P1Demand(quintal)": 54,
+    "P2Demand(quintal)": 58,
+    "P3Demand(quintal)": 50
+  },
+  {
+    "Month": "28-May",
+    "P1Demand(quintal)": 40,
+    "P2Demand(quintal)": 44,
+    "P3Demand(quintal)": 42
+  },
+  {
+    "Month": "28-Jun",
+    "P1Demand(quintal)": 55,
+    "P2Demand(quintal)": 57,
+    "P3Demand(quintal)": 59
+  },
+  {
+    "Month": "28-Jul",
+    "P1Demand(quintal)": 39,
+    "P2Demand(quintal)": 54,
+    "P3Demand(quintal)": 42
+  },
+  {
+    "Month": "28-Aug",
+    "P1Demand(quintal)": 54,
+    "P2Demand(quintal)": 50,
+    "P3Demand(quintal)": 51
+  },
+  {
+    "Month": "28-Sep",
+    "P1Demand(quintal)": 80,
+    "P2Demand(quintal)": 72,
+    "P3Demand(quintal)": 74
+  },
+  {
+    "Month": "28-Oct",
+    "P1Demand(quintal)": 90,
+    "P2Demand(quintal)": 93,
+    "P3Demand(quintal)": 91
+  },
+  {
+    "Month": "28-Nov",
+    "P1Demand(quintal)": 170,
+    "P2Demand(quintal)": 168,
+    "P3Demand(quintal)": 160
+  },
+  {
+    "Month": "28-Dec",
+    "P1Demand(quintal)": 140,
+    "P2Demand(quintal)": 160,
+    "P3Demand(quintal)": 150
+  }
+]

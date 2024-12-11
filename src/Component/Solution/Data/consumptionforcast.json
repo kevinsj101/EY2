@@ -1,0 +1,74 @@
+[ 
+  {
+    "Month": "Dec-2024",
+    "P1Consumption(quintal)": 140,
+    "P2Consumption(quintal)": 160,
+    "P3Consumption(quintal)": 150
+  },
+  {
+    "Month": "Jan-2025",
+    "P1Consumption(quintal)": 129,
+    "P2Consumption(quintal)": 100,
+    "P3Consumption(quintal)": 116
+  },
+  {
+    "Month": "Feb-2025",
+    "P1Consumption(quintal)": 100,
+    "P2Consumption(quintal)": 95,
+    "P3Consumption(quintal)": 120
+  },
+  {
+    "Month": "Mar-2025",
+    "P1Consumption(quintal)": 49,
+    "P2Consumption(quintal)": 49,
+    "P3Consumption(quintal)": 45
+  },
+  {
+    "Month": "Apr-2025",
+    "P1Consumption(quintal)": 54,
+    "P2Consumption(quintal)": 58,
+    "P3Consumption(quintal)": 50
+  },
+  {
+    "Month": "May-2025",
+    "P1Consumption(quintal)": 40,
+    "P2Consumption(quintal)": 44,
+    "P3Consumption(quintal)": 42
+  },
+  {
+    "Month": "Jun-2025",
+    "P1Consumption(quintal)": 55,
+    "P2Consumption(quintal)": 57,
+    "P3Consumption(quintal)": 59
+  },
+  {
+    "Month": "Jul-2025",
+    "P1Consumption(quintal)": 39,
+    "P2Consumption(quintal)": 54,
+    "P3Consumption(quintal)": 42
+  },
+  {
+    "Month": "Aug-2025",
+    "P1Consumption(quintal)": 54,
+    "P2Consumption(quintal)": 50,
+    "P3Consumption(quintal)": 51
+  },
+  {
+    "Month": "Sep-2025",
+    "P1Consumption(quintal)": 80,
+    "P2Consumption(quintal)": 72,
+    "P3Consumption(quintal)": 74
+  },
+  {
+    "Month": "Oct-2025",
+    "P1Consumption(quintal)": 90,
+    "P2Consumption(quintal)": 93,
+    "P3Consumption(quintal)": 91
+  },
+  {
+    "Month": "Nov-2025",
+    "P1Consumption(quintal)": 170,
+    "P2Consumption(quintal)": 168,
+    "P3Consumption(quintal)": 160
+  }
+]

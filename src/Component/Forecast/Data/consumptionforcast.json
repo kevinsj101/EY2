@@ -1,0 +1,74 @@
+[
+  {
+    "Month": "28-Jan",
+    "P1Consumption(quintal)": 129,
+    "P2Consumption(quintal)": 100,
+    "P3Consumption(quintal)": 116
+  },
+  {
+    "Month": "28-Feb",
+    "P1Consumption(quintal)": 100,
+    "P2Consumption(quintal)": 95,
+    "P3Consumption(quintal)": 120
+  },
+  {
+    "Month": "28-Mar",
+    "P1Consumption(quintal)": 49,
+    "P2Consumption(quintal)": 49,
+    "P3Consumption(quintal)": 45
+  },
+  {
+    "Month": "28-Apr",
+    "P1Consumption(quintal)": 54,
+    "P2Consumption(quintal)": 58,
+    "P3Consumption(quintal)": 50
+  },
+  {
+    "Month": "28-May",
+    "P1Consumption(quintal)": 40,
+    "P2Consumption(quintal)": 44,
+    "P3Consumption(quintal)": 42
+  },
+  {
+    "Month": "28-Jun",
+    "P1Consumption(quintal)": 55,
+    "P2Consumption(quintal)": 57,
+    "P3Consumption(quintal)": 59
+  },
+  {
+    "Month": "28-Jul",
+    "P1Consumption(quintal)": 39,
+    "P2Consumption(quintal)": 54,
+    "P3Consumption(quintal)": 42
+  },
+  {
+    "Month": "28-Aug",
+    "P1Consumption(quintal)": 54,
+    "P2Consumption(quintal)": 50,
+    "P3Consumption(quintal)": 51
+  },
+  {
+    "Month": "28-Sep",
+    "P1Consumption(quintal)": 80,
+    "P2Consumption(quintal)": 72,
+    "P3Consumption(quintal)": 74
+  },
+  {
+    "Month": "28-Oct",
+    "P1Consumption(quintal)": 90,
+    "P2Consumption(quintal)": 93,
+    "P3Consumption(quintal)": 91
+  },
+  {
+    "Month": "28-Nov",
+    "P1Consumption(quintal)": 170,
+    "P2Consumption(quintal)": 168,
+    "P3Consumption(quintal)": 160
+  },
+  {
+    "Month": "28-Dec",
+    "P1Consumption(quintal)": 140,
+    "P2Consumption(quintal)": 160,
+    "P3Consumption(quintal)": 150
+  }
+]

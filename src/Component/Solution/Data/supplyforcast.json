@@ -1,0 +1,242 @@
+[
+    {
+      "Year": 2023,
+      "Month": "jan",
+      "Predicted_Production": 4272.75
+    },
+    {
+      "Year": 2023,
+      "Month": "feb",
+      "Predicted_Production": 3646.05
+    },
+    {
+      "Year": 2023,
+      "Month": "mar",
+      "Predicted_Production": 2132.36
+    },
+    {
+      "Year": 2023,
+      "Month": "apr",
+      "Predicted_Production": 1683.81
+    },
+    {
+      "Year": 2023,
+      "Month": "may",
+      "Predicted_Production": 2410.28
+    },
+    {
+      "Year": 2023,
+      "Month": "jun",
+      "Predicted_Production": 1169.13
+    },
+    {
+      "Year": 2023,
+      "Month": "jul",
+      "Predicted_Production": 2875.93
+    },
+    {
+      "Year": 2023,
+      "Month": "aug",
+      "Predicted_Production": 1421.01
+    },
+    {
+      "Year": 2023,
+      "Month": "sep",
+      "Predicted_Production": 2450.01
+    },
+    {
+      "Year": 2023,
+      "Month": "oct",
+      "Predicted_Production": 4902.89
+    },
+    {
+      "Year": 2023,
+      "Month": "nov",
+      "Predicted_Production": 3174.03
+    },
+    {
+      "Year": 2023,
+      "Month": "dec",
+      "Predicted_Production": 3476.29
+    },
+    {
+      "Year": 2024,
+      "Month": "jan",
+      "Predicted_Production": 4650
+    },
+    {
+      "Year": 2024,
+      "Month": "feb",
+      "Predicted_Production": 3800.25
+    },
+    {
+      "Year": 2024,
+      "Month": "mar",
+      "Predicted_Production": 2350.1
+    },
+    {
+      "Year": 2024,
+      "Month": "apr",
+      "Predicted_Production": 1805.78
+    },
+    {
+      "Year": 2024,
+      "Month": "may",
+      "Predicted_Production": 2150.63
+    },
+    {
+      "Year": 2024,
+      "Month": "jun",
+      "Predicted_Production": 2205.94
+    },
+    {
+      "Year": 2024,
+      "Month": "jul",
+      "Predicted_Production": 1268.34
+    },
+    {
+      "Year": 2024,
+      "Month": "aug",
+      "Predicted_Production": 1803.45
+    },
+    {
+      "Year": 2024,
+      "Month": "sep",
+      "Predicted_Production": 1100.21
+    },
+    {
+      "Year": 2024,
+      "Month": "oct",
+      "Predicted_Production": 3650.67
+    },
+    {
+      "Year": 2024,
+      "Month": "nov",
+      "Predicted_Production": 4332.41
+    },
+    {
+      "Year": 2024,
+      "Month": "dec",
+      "Predicted_Production": 3995.29
+    },
+    {
+      "Year": 2025,
+      "Month": "jan",
+      "Predicted_Production": 3797.310302734375
+    },
+    {
+      "Year": 2025,
+      "Month": "feb",
+      "Predicted_Production": 3722.768310546875
+    },
+    {
+      "Year": 2025,
+      "Month": "mar",
+      "Predicted_Production": 3506.1728515625
+    },
+    {
+      "Year": 2025,
+      "Month": "apr",
+      "Predicted_Production": 3423.52880859375
+    },
+    {
+      "Year": 2025,
+      "Month": "may",
+      "Predicted_Production": 2039.700805664062
+    },
+    {
+      "Year": 2025,
+      "Month": "jun",
+      "Predicted_Production": 1613.536743164062
+    },
+    {
+      "Year": 2025,
+      "Month": "jul",
+      "Predicted_Production": 1236.291870117188
+    },
+    {
+      "Year": 2025,
+      "Month": "aug",
+      "Predicted_Production": 1828.866821289062
+    },
+    {
+      "Year": 2025,
+      "Month": "sep",
+      "Predicted_Production": 1148.972290039062
+    },
+    {
+      "Year": 2025,
+      "Month": "oct",
+      "Predicted_Production": 3237.9130859375
+    },
+    {
+      "Year": 2025,
+      "Month": "nov",
+      "Predicted_Production": 4317.56787109375
+    },
+    {
+      "Year": 2025,
+      "Month": "dec",
+      "Predicted_Production": 4780.849609375
+    },
+    {
+      "Year": 2026,
+      "Month": "jan",
+      "Predicted_Production": 4876.4814453125
+    },
+    {
+      "Year": 2026,
+      "Month": "feb",
+      "Predicted_Production": 3645.350830078125
+    },
+    {
+      "Year": 2026,
+      "Month": "mar",
+      "Predicted_Production": 2136.346923828125
+    },
+    {
+      "Year": 2026,
+      "Month": "apr",
+      "Predicted_Production": 1682.560668945312
+    },
+    {
+      "Year": 2026,
+      "Month": "may",
+      "Predicted_Production": 2407.875
+    },
+    {
+      "Year": 2026,
+      "Month": "jun",
+      "Predicted_Production": 1175.346313476562
+    },
+    {
+      "Year": 2026,
+      "Month": "jul",
+      "Predicted_Production": 2873.1064453125
+    },
+    {
+      "Year": 2026,
+      "Month": "aug",
+      "Predicted_Production": 1423.697509765625
+    },
+    {
+      "Year": 2026,
+      "Month": "sep",
+      "Predicted_Production": 2166.695556640625
+    },
+    {
+      "Year": 2026,
+      "Month": "oct",
+      "Predicted_Production": 4886.49169921875
+    },
+    {
+      "Year": 2026,
+      "Month": "nov",
+      "Predicted_Production": 3177.29248046875
+    },
+    {
+      "Year": 2026,
+      "Month": "dec",
+      "Predicted_Production": 3486.49755859375
+    }
+]

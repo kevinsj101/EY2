@@ -1,0 +1,52 @@
+[
+    {
+      "Product": "P1",
+      "Price ": 320,
+      "Current Supplier": "A",
+      "Contract End Date": "31-DEC-2024",
+      "Current Consumption Per Month ": 1700,
+      "Supply To date ": 70.04,
+      "Capacity Utilization": 0.3,
+      "Forecasted Price(Dec)": 319.34
+    },
+    {
+      "Product": "P2",
+      "Price ": 340,
+      "Current Supplier": "A",
+      "Contract End Date": "31-DEC-2024",
+      "Current Consumption Per Month ": 1200,
+      "Supply To date ": 68.03,
+      "Capacity Utilization": 0.2,
+      "Forecasted Price(Dec)": 344.2
+    },
+    {
+      "Product": "P2",
+      "Price ": 310,
+      "Current Supplier": "B",
+      "Contract End Date": "31-DEC-2024",
+      "Current Consumption Per Month ": 1200,
+      "Supply To date ": 60.03,
+      "Capacity Utilization": 0.9,
+      "Forecasted Price(Dec)": 344.2
+    },
+    {
+      "Product": "P3",
+      "Price ": 345,
+      "Current Supplier": "B",
+      "Contract End Date": "31-DEC-2024",
+      "Current Consumption Per Month ": 13000,
+      "Supply To date ": 22.11,
+      "Capacity Utilization": 0.89,
+      "Forecasted Price(Dec)": 339.06
+    },
+    {
+      "Product": "P4",
+      "Price ": 342,
+      "Current Supplier": "C",
+      "Contract End Date": "31-DEC-2026",
+      "Current Consumption Per Month ": 5004,
+      "Supply To date ": 32.21,
+      "Capacity Utilization": 0.55,
+      "Forecasted Price(Dec)": 343.92
+    }
+]

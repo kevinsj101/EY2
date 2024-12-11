@@ -1,0 +1,115 @@
+[
+    {
+      "Month": "Dec-2024",
+      "P1Consumption(quintal)": "140",
+      "P2Consumption(quintal)": "160",
+      "P3Consumption(quintal)": "150",
+      "Total_Price ": 321.5,
+      "Supply": 3995.29
+    },
+    {
+      "Month": "Jan-2025",
+      "P1Consumption(quintal)": "129",
+      "P2Consumption(quintal)": "100",
+      "P3Consumption(quintal)": "116",
+      "Total_Price ": 330.697998,
+      "Supply": 3797.310302734375
+    },
+    {
+      "Month": "Feb-2025",
+      "P1Consumption(quintal)": "100",
+      "P2Consumption(quintal)": "95",
+      "P3Consumption(quintal)": "120",
+      "Total_Price ": 346.2325134,
+      "Supply": 3722.768310546875
+    },
+    {
+      "Month": "Mar-2025",
+      "P1Consumption(quintal)": "49",
+      "P2Consumption(quintal)": "49",
+      "P3Consumption(quintal)": "45",
+      "Total_Price ": 344.9402771,
+      "Supply": 3506.1728515625
+    },
+    {
+      "Month": "Apr-2025",
+      "P1Consumption(quintal)": "54",
+      "P2Consumption(quintal)": "58",
+      "P3Consumption(quintal)": "50",
+      "Total_Price ": 345.9243164,
+      "Supply": 3423.52880859375
+    },
+    {
+      "Month": "May-2025",
+      "P1Consumption(quintal)": "40",
+      "P2Consumption(quintal)": "44",
+      "P3Consumption(quintal)": "42",
+      "Total_Price ": 332.6444092,
+      "Supply": 2039.700805664062
+    },
+    {
+      "Month": "Jun-2025",
+      "P1Consumption(quintal)": "55",
+      "P2Consumption(quintal)": "57",
+      "P3Consumption(quintal)": "59",
+      "Total_Price ": 354.4585571,
+      "Supply": 1613.536743164062,
+      "__EMPTY_3": 860
+    },
+    {
+      "Month": "Jul-2025",
+      "P1Consumption(quintal)": "39",
+      "P2Consumption(quintal)": "54",
+      "P3Consumption(quintal)": "42",
+      "Total_Price ": 325.1873169,
+      "Supply": 1236.291870117188
+    },
+    {
+      "Month": "Aug-2025",
+      "P1Consumption(quintal)": "54",
+      "P2Consumption(quintal)": "50",
+      "P3Consumption(quintal)": "51",
+      "Total_Price ": 336.0688171,
+      "Supply": 1828.866821289062
+    },
+    {
+      "Month": "Sep-2025",
+      "P1Consumption(quintal)": "80",
+      "P2Consumption(quintal)": "72",
+      "P3Consumption(quintal)": "74",
+      "Total_Price ": 335.1363525,
+      "Supply": 1148.972290039062
+    },
+    {
+      "Month": "Oct-2025",
+      "P1Consumption(quintal)": "90",
+      "P2Consumption(quintal)": "93",
+      "P3Consumption(quintal)": "91",
+      "Total_Price ": 334.0801697,
+      "Supply": 3237.9130859375
+    },
+    {
+      "Month": "Nov-2025",
+      "P1Consumption(quintal)": "170",
+      "P2Consumption(quintal)": "168",
+      "P3Consumption(quintal)": "160",
+      "Total_Price ": 334.1557007,
+      "Supply": 4317.56787109375
+    },
+    {
+      "Month": "Dec-2025",
+      "P1Consumption(quintal)": "140",
+      "P2Consumption(quintal)": "160",
+      "P3Consumption(quintal)": "150",
+      "Total_Price ": 355.7842407,
+      "Supply": 4780.849609375
+    },
+    {
+      "Month": "Jan-2026",
+      "P1Consumption(quintal)": "110",
+      "P2Consumption(quintal)": "100",
+      "P3Consumption(quintal)": "125",
+      "Total_Price ": 356.8302307,
+      "Supply": 4876.4814453125
+    }
+]
