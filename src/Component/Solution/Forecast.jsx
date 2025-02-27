@@ -79,7 +79,7 @@ const Forecast = () => {
   return (
     <div  className="min-h-screen flex flex-col items-center justify-center p-4 bg-cover bg-center"
     style={{
-      backgroundImage: `url('https://images.pexels.com/photos/1796698/pexels-photo-1796698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`
+     // backgroundImage: `url('https://images.pexels.com/photos/1796698/pexels-photo-1796698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`
     }}>
       <div className="grid grid-cols-3 gap-8 max-w-3xl w-full p-8 bg-white bg-opacity-20 backdrop-blur-md rounded-lg shadow-lg border border-white border-opacity-30">
         

@@ -1,21 +1,5 @@
 [
     {
-      "Month": "Dec-2024",
-      "P1Consumption(quintal)": "140",
-      "P2Consumption(quintal)": "160",
-      "P3Consumption(quintal)": "150",
-      "Total_Price ": 321.5,
-      "Supply": 3995.29
-    },
-    {
-      "Month": "Jan-2025",
-      "P1Consumption(quintal)": "129",
-      "P2Consumption(quintal)": "100",
-      "P3Consumption(quintal)": "116",
-      "Total_Price ": 330.697998,
-      "Supply": 3797.310302734375
-    },
-    {
       "Month": "Feb-2025",
       "P1Consumption(quintal)": "100",
       "P2Consumption(quintal)": "95",

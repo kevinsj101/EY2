@@ -31,7 +31,7 @@ const App = () => {
           path="/*"
           element={
             <div
-              className="bg-no-repeat bg-cover bg-center bg-yellow-50"
+              className="bg-no-repeat bg-cover bg-center bg-blue-50"
               style={{
                // backgroundImage: `url('https://images.pexels.com/photos/1796698/pexels-photo-1796698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')`,
                

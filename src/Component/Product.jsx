@@ -118,9 +118,9 @@ function MintecAnalytics() {
 
           {/* Price Risk */}
           <div className="flex flex-col items-center space-y-4">
-            <div className="bg-white bg-opacity-50 rounded-full p-4 shadow-lg backdrop-filter backdrop-blur-md">
-              <ArrowTrendingUpIcon className="h-10 w-10 text-blue-500" />
-            </div>
+            <button className="bg-white bg-opacity-50 rounded-full p-4 shadow-lg backdrop-filter backdrop-blur-md hover:bg-blue-100  nowrap">
+              <ArrowTrendingUpIcon className="h-10 w-10 text-blue-500" onClick={handlePriceChangeClick}/>
+            </button>
             <button
               className="bg-white bg-opacity-40 py-2 px-6 rounded-full shadow-md text-lg font-medium text-gray-800 hover:bg-blue-100"
               onClick={handlePriceChangeClick}
@@ -131,9 +131,9 @@ function MintecAnalytics() {
 
           {/* Vendor Risk */}
           <div className="flex flex-col items-center space-y-4">
-            <div className="bg-white bg-opacity-50 rounded-full p-4 shadow-lg backdrop-filter backdrop-blur-md">
-              <ShieldCheckIcon className="h-10 w-10 text-blue-500" />
-            </div>
+            <button className="bg-white bg-opacity-50 rounded-full p-4 shadow-lg backdrop-filter  hover:bg-blue-100  nowrap">
+              <ShieldCheckIcon className="h-10 w-10 text-blue-500" onClick={handlevendorRiskClick}/>
+            </button>
             <button
               className="bg-white bg-opacity-40 py-2 px-6 rounded-full shadow-md text-lg font-medium text-gray-800 hover:bg-blue-100  nowrap"
               onClick={handlevendorRiskClick}

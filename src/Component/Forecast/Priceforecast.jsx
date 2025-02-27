@@ -678,18 +678,21 @@ ChartJS.register(
   Filler
 );
 
-const PriceRecommendationSpeedometer = () => {
+const PriceRecommendationSpeedometer = ({ selectedProduct }) => {
   const [selectedPeriod, setSelectedPeriod] = useState(null);
 
-  // Get unique years and months from the prices data
-  const availableYears = [...new Set(prices.map((item) => item.Year))].sort(
+  // We would filter prices based on the selected product
+  const productPrices = selectedProduct === "p1" ? prices : prices; // Replace with actual data filtering logic
+
+  // Get unique years and months from the filtered product prices data
+  const availableYears = [...new Set(productPrices.map((item) => item.Year))].sort(
     (a, b) => b - a
   );
 
   const availableMonths = selectedPeriod?.year
     ? [
         ...new Set(
-          prices
+          productPrices
             .filter((item) => item.Year === selectedPeriod.year)
             .map((item) => item.Month)
         ),
@@ -698,7 +701,7 @@ const PriceRecommendationSpeedometer = () => {
 
   // Calculate price change percentage
   const calculatePriceChange = (year, month) => {
-    const currentPeriodData = prices.find(
+    const currentPeriodData = productPrices.find(
       (item) =>
         item.Year === year && item.Month.toLowerCase() === month.toLowerCase()
     );
@@ -708,12 +711,12 @@ const PriceRecommendationSpeedometer = () => {
     const currentPrice = currentPeriodData["Market Price (INR per quintal)"];
 
     // Find previous period data
-    const currentIndex = prices.findIndex(
+    const currentIndex = productPrices.findIndex(
       (item) =>
         item.Year === year && item.Month.toLowerCase() === month.toLowerCase()
     );
 
-    const previousMonth = currentIndex > 0 ? prices[currentIndex - 1] : null;
+    const previousMonth = currentIndex > 0 ? productPrices[currentIndex - 1] : null;
 
     if (!previousMonth) return 0;
 
@@ -915,18 +918,7 @@ const PriceRecommendationSpeedometer = () => {
               transition: 'transform 0.5s ease-in-out',
             }}
           >
-            {/* <div 
-              className="w-1 bg-black h-24 relative"
-              style={{
-                transformOrigin: 'bottom center',
-              }} 
-            />
-            {/* <ChevronUpIcon 
-              className="text-black w-8 h-8 -mt-2" 
-              style={{
-                transformOrigin: 'bottom center',
-              }}
-            /> */}
+            {/* Needle implementation */}
           </div>
         </div>
       </div>
@@ -945,7 +937,6 @@ const PriceRecommendationSpeedometer = () => {
   );
 };
 
-
 const PriceForecast = () => {
   const [filtersVisible, setFiltersVisible] = useState(false);
   const [dateRange, setDateRange] = useState({ start: "", end: "" });
@@ -957,6 +948,14 @@ const PriceForecast = () => {
     maxPrice: "",
     email: "",
   });
+  const [selectedProduct, setSelectedProduct] = useState("p1"); // New state for product selection
+
+  // Available products data
+  const products = [
+    { id: "p1", name: "Product 1" },
+    { id: "p2", name: "Product 2" },
+    { id: "p3", name: "Product 3" }
+  ];
 
   const toggleFilters = () => setFiltersVisible(!filtersVisible);
 
@@ -990,8 +989,24 @@ const PriceForecast = () => {
     }));
   };
 
+  const handleProductChange = (e) => {
+    setSelectedProduct(e.target.value);
+  };
+
+  // For demonstration, we'll use the same data for all products
+  // In a real implementation, you would filter the data based on the selected product
+  // Here's a simulated filter:
+  const getProductData = (productId) => {
+    // This is where you would filter or fetch data based on product ID
+    // For now, we'll just return the same data for all products
+    return prices;
+  };
+
+  // Get data for the selected product
+  const productData = getProductData(selectedProduct);
+
   // Ensure data exists and is an array
-  const validData = Array.isArray(prices) ? prices : [];
+  const validData = Array.isArray(productData) ? productData : [];
 
   const filteredData = validData.filter((item) => {
     if (!item || !item.Year || !item.Month) return false;
@@ -1206,6 +1221,29 @@ const PriceForecast = () => {
   return (
     <div className="min-h-screen bg-gray-50 p-6">
       <div className="max-w-[1920px] mx-auto space-y-6">
+        {/* Product Selection Dropdown */}
+        <div className="bg-white rounded-lg shadow-sm p-4">
+          <div className="flex items-center justify-between">
+            <div className="text-lg font-semibold text-gray-900">
+              Product Selection
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="text-sm text-gray-500">Select Product:</span>
+              <select
+                value={selectedProduct}
+                onChange={handleProductChange}
+                className="px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              >
+                {products.map((product) => (
+                  <option key={product.id} value={product.id}>
+                    {product.name}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+        </div>
+
         {/* Price Summary Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-white rounded-lg shadow-sm p-6">
@@ -1251,7 +1289,7 @@ const PriceForecast = () => {
           <div className="lg:col-span-3 bg-white rounded-lg shadow-sm p-6">
             <div className="flex justify-between items-center mb-6">
               <h2 className="text-lg font-semibold text-gray-900">
-                Price Forecast Trend
+                Price Forecast Trend for {products.find(p => p.id === selectedProduct)?.name}
               </h2>
               <div className="flex gap-2">
                 <button
@@ -1264,7 +1302,6 @@ const PriceForecast = () => {
             </div>
 
             {/* Price Alert  */}
-
             <div className="flex justify-end mb-4">
               <button
                 onClick={() => setAlertDialogOpen(true)}
@@ -1303,7 +1340,7 @@ const PriceForecast = () => {
                       <>
                         <div className="mb-4">
                           <h2 className="text-xl font-semibold text-gray-900">
-                            Set Price Alert
+                            Set Price Alert for {products.find(p => p.id === selectedProduct)?.name}
                           </h2>
                           <p className="text-sm text-gray-500 mt-1">
                             Get notified when prices go beyond your specified

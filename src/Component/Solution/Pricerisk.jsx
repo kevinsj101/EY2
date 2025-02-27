@@ -1151,13 +1151,13 @@ const CapacityUtilizationCircle = ({ percentage }) => {
                 {/* Percentage Diff Highest Market Tile */}
                 <div className="bg-gray-50 p-4 rounded-lg">
                   <div className="text-xs text-gray-500 mb-1">% Diff Highest Market</div>
-                  <div className="text-lg font-bold text-green-700">{bid['Percentage Diff Highest Market']}%</div>
+                  <div className="text-lg font-bold text-green-700">{bid['Percentage Diff Highest Market'].toFixed(2)}%</div>
                 </div>
 
                 {/* Percentage Diff Lowest Market Tile */}
                 <div className="bg-gray-50 p-4 rounded-lg">
                   <div className="text-xs text-gray-500 mb-1">% Diff Lowest Market</div>
-                  <div className="text-lg font-bold text-green-700">{bid['Percentage Diff Lowest Market']}%</div>
+                  <div className="text-lg font-bold text-green-700">{bid['Percentage Diff Lowest Market'].toFixed(2)}%</div>
                 </div>
 
                 {/* Bid Status Tile */}

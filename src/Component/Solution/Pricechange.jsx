@@ -1617,7 +1617,7 @@ const PriceAnalysisDashboard = () => {
                     </div>
                     <div className="border rounded-lg p-4 shadow-md">
                       <span className="font-medium">
-                        Difference between HMP and CTC:
+                        Difference between HMC and TC:
                       </span>
                       <p>
                         ₹
@@ -1626,11 +1626,19 @@ const PriceAnalysisDashboard = () => {
                     </div>
                     <div className="border rounded-lg p-4 shadow-md">
                       <span className="font-medium">
-                        Difference between LMP and CTC:
+                        Difference between LMC and TC:
                       </span>
                       <p>
                         ₹
                         {selectedProductDetails?.differencebetweenlowestmarketpriceandctc?.toLocaleString()}
+                      </p>
+                    </div>
+                    <div className="border rounded-lg p-4 shadow-md">
+                      <span className="font-medium">
+                        Consumption:
+                      </span>
+                      <p>
+                        {selectedProductDetails?.consumption?.toLocaleString()} Quintal 
                       </p>
                     </div>
                   </div>

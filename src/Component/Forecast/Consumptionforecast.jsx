@@ -245,7 +245,7 @@ const ConsumptionForecast = () => {
             >
               Consumption
             </button>
-            <button 
+            {/* <button 
               onClick={() => setSelectedDataType('Market Demand')}
               className={`px-4 py-2 rounded-md transition duration-300 ${
                 selectedDataType === 'Market Demand' 
@@ -254,7 +254,7 @@ const ConsumptionForecast = () => {
               }`}
             >
               Market Demand
-            </button>
+            </button> */}
           </div>
 
           <div className="flex items-center space-x-4">
